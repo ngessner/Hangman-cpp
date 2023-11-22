@@ -23,7 +23,7 @@ GIT:
 
 Before cloning, download the latest version of the project on git. 
 
-• git clone: https://github.com/ngessner/while-hangman-final.git
+• git clone: https://github.com/ngessner/Hangman-cpp.git
 
 
 NOTICE: 
