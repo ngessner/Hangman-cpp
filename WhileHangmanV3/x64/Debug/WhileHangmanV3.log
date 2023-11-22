@@ -1,0 +1,3 @@
+﻿  WhileHangmanV3.cpp
+D:\Main\Ngesser\Personal\C++\Progression Programs\wip\WhileHangmanV3\WhileHangmanV3\WhileHangmanV3.cpp(147,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WhileHangmanV3.vcxproj -> D:\Main\Ngesser\Personal\C++\Progression Programs\wip\WhileHangmanV3\x64\Debug\WhileHangmanV3.exe
